@@ -1,0 +1,5 @@
+prompt = (
+    "A body farm filled with both decomposing animals and humans, "
+    "paper mache collaged in the style of H.R. Giger, "
+    "dramatic lighting, detailed scene, 10x macro lens, hyperrealistic dripping textures, "
+)

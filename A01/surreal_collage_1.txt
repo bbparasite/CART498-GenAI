@@ -1,0 +1,5 @@
+prompt = (
+    "A body farm filled with both decomposing animals and humans, "
+    "collaged in the style of H.R. Giger, "
+    "dramatic lighting, detailed scene, hyperrealistic glistening textures, "
+)
